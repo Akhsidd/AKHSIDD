@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Siddharth !</h1>
+<h1 align="center">Hi👋, I'm Siddharth !</h1>
 <h3 align="center">Passionate Tester & DevOps Enthusiast | Automating Quality & Streamlining Pipelines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhsidd&label=Profile%20views&color=0e75b6&style=flat" alt="akhsidd" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhsidd" alt="akhsidd" /></a> </p>
 
-- 💬 Ask me about **testing and cloud related**
+- 💬 Ask me about **Testing and Cloud related**
 
 - 📫 How to reach me **siddharthaforms@gmail.com**
 
