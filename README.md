@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm Siddharth !</h1>
+<h1 align="center">Hi👋, I'm Akhil !</h1>
 <h3 align="center">Passionate Tester & DevOps Enthusiast | Automating Quality & Streamlining Pipelines</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhsidd&label=Profile%20views&color=0e75b6&style=flat" alt="akhsidd" /> </p>
